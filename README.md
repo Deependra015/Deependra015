@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deependra015.
-- 👀 I’m interested in Programming and App development.
+p- 👀 I’m interested in programming and software development.
 - 🌱 I’m currently working on Start-up project.
 - 💞️ I’m looking to collaborate on development projects. 
 - 📫 you can reach me on Instagram : @deependra_015
