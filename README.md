@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deependra015.
-p- 👀 I’m interested in programming and software development.
-- 🌱 I’m currently working on Start-up project.
+- 👀 I’m interested in programming and software development.
+- 🌱 I’m currently working on start-up project.
 - 💞️ I’m looking to collaborate on development projects. 
 - 📫 you can reach me on Instagram : @deependra_015
 -                 Linkedin: https://www.linkedin.com/in/deependra-gaur-801629239/
